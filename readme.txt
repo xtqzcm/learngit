@@ -8,6 +8,6 @@ Git is free software.
 	3.git add <file>
 	4.git commit -m "description"
 2>
-	1.git status       (check the current status)
-	2.git diff <file>  (check what had been changed)
+	1.git status       (查看工作区状态，看有没有修改)
+	2.git diff <file>  (查看修改内容)
 	3.
