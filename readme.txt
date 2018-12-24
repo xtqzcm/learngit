@@ -70,5 +70,5 @@ ADD NEW BRANCH
 	git checkout branch-name						切换到某个branch
 	git merge										切回master后可以将branch和master合并
 	git branch -d branch-name						删除branch
-	
+	git log --graph									可以看到分支合并图
 emm
