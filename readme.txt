@@ -4,6 +4,7 @@ Git is free software.
 
 ...learning tracking...
 
+BASIC 
 1>
 	1.create a git repository
 	2.git init
@@ -57,3 +58,12 @@ REMOTE REPOSOTORY
 											分支关联起来在以后的推送或者拉取时就可以简化命令。
 	git push origin master							把master分支最新修改推送到github
 	
+2>
+	git clone git@sever-name:path/repo_name.git		克隆一个远程仓库过来
+	
+	
+ADD NEW BRANCH
+	git checkout -b branch-name						创建并切换到一个branch
+		等同于 git branch branch-name 和 git checkout branch-name 
+	git branch										列出目前所有branch
+	git checkout branch-name						切换到某个branch
