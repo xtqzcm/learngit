@@ -27,4 +27,7 @@ Git is free software.
 	git add <file>           add to the stage
 	git commit 				 from stage add to the branch
 
+5>
+	check
+
 
