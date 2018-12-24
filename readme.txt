@@ -26,8 +26,11 @@ Git is free software.
 	about stage (暂存区)
 	git add <file>           add to the stage
 	git commit 				 from stage add to the branch
+						/stage 暂存区
+	工作区 ---  版本库 
+						\branch
 
 5>
-	check
+
 
 
