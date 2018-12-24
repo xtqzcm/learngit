@@ -71,3 +71,4 @@ ADD NEW BRANCH
 	git merge										切回master后可以将branch和master合并
 	git branch -d branch-name						删除branch
 	git log --graph									可以看到分支合并图
+
