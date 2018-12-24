@@ -67,3 +67,5 @@ ADD NEW BRANCH
 		等同于 git branch branch-name 和 git checkout branch-name 
 	git branch										列出目前所有branch
 	git checkout branch-name						切换到某个branch
+	git merge										切回master后可以将branch和master合并
+	git branch -d branch-name						删除branch
