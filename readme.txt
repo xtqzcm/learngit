@@ -36,4 +36,5 @@ Git is free software.
 
 6>
 	git checkout -- <file>		撤销修改
+	git reset HEAD <file>		撤销已经add到暂存区但是还没commit的文件
 
