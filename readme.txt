@@ -23,6 +23,8 @@ Git is free software.
 	5.git reflog				(查找被回退，已经不见了的版本的版本号)
 	
 4>
-	1.
+	about stage (暂存区)
+	git add <file>           add to the stage
+	git commit 				 from stage add to the branch
 
 
