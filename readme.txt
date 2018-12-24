@@ -31,6 +31,7 @@ Git is free software.
 						\branch
 
 5>
-
+	unless has been added to the stage, it wouldn't be able to be committed
+	cat <file>				compare the two file
 
 
