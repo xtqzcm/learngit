@@ -62,6 +62,7 @@ REMOTE REPOSOTORY
 	git clone git@sever-name:path/repo_name.git		克隆一个远程仓库过来
 	
 	
+	
 ADD NEW BRANCH
 	git checkout -b branch-name						创建并切换到一个branch
 		等同于 git branch branch-name 和 git checkout branch-name 
@@ -70,4 +71,4 @@ ADD NEW BRANCH
 	git merge										切回master后可以将branch和master合并
 	git branch -d branch-name						删除branch
 	
-creating a new branch is quick & simple.
+emm
