@@ -34,4 +34,6 @@ Git is free software.
 	unless has been added to the stage, it wouldn't be able to be committed
 	cat <file>				compare the two file
 
+6>
+	git checkout -- <file>		撤销修改
 
